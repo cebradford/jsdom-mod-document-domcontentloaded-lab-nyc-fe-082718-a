@@ -1,2 +1,2 @@
 /* code goes here */
-document.querySelector("div#hidden-div").innerText.update("301")
+document.addEventListener("DOMContentLoaded", e=> {document.querySelector("div#hidden-div").innerText.update("301")})
