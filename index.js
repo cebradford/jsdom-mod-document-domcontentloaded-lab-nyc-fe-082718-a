@@ -1,2 +1,2 @@
 /* code goes here */
-document.querySelector("div#hidden-div").ineerText.update(parseInt(innerText)++)
+document.querySelector("div#hidden-div").innerText.update(innerText++)
